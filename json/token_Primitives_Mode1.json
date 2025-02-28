@@ -1,0 +1,116 @@
+{
+  "colour": {
+    "blue": {
+      "100": {
+        "$type": "color",
+        "$value": "#130064"
+      }
+    },
+    "green": {
+      "10": {
+        "$type": "color",
+        "$value": "#e6f1f0"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#007064"
+      }
+    },
+    "interaction": {
+      "focus": {
+        "$type": "color",
+        "$value": "#0d59ff"
+      },
+      "focus-glow": {
+        "$type": "color",
+        "$value": "#0d59ff33"
+      }
+    },
+    "invalid": {
+      "10": {
+        "$type": "color",
+        "$value": "#e60e221a"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#e60e22"
+      }
+    },
+    "neutral": {
+      "0": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "10": {
+        "$type": "color",
+        "$value": "#0000001a"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#000000"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "#cccccc"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "#b3b3b3"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "#999999"
+      },
+      "5": {
+        "$type": "color",
+        "$value": "#0000000d"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#7f7f7f"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "#666666"
+      },
+      "70": {
+        "$type": "color",
+        "$value": "#4d4d4d"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "#333333"
+      },
+      "90": {
+        "$type": "color",
+        "$value": "#1a1a1a"
+      }
+    },
+    "skeleton": {
+      "dark": {
+        "$type": "color",
+        "$value": "#e6e6e6"
+      }
+    },
+    "yellow": {
+      "100": {
+        "$type": "color",
+        "$value": "#ffe600"
+      },
+      "600": {
+        "$type": "color",
+        "$value": "#fff600"
+      }
+    },
+    "yellow-warm": {
+      "100": {
+        "$type": "color",
+        "$value": "#ffc300"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "#ffda00"
+      }
+    }
+  }
+}
