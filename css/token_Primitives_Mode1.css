@@ -1,0 +1,26 @@
+:root {
+  --color-colour-blue-100: #130064;
+  --color-colour-green-10: #e6f1f0;
+  --color-colour-green-100: #007064;
+  --color-colour-interaction-focus: #0d59ff;
+  --color-colour-interaction-focus-glow: rgba(13, 89, 255, 0.2);
+  --color-colour-invalid-10: rgba(230, 14, 34, 0.1);
+  --color-colour-invalid-100: #e60e22;
+  --color-colour-neutral-0: #ffffff;
+  --color-colour-neutral-5: rgba(0, 0, 0, 0.05);
+  --color-colour-neutral-10: rgba(0, 0, 0, 0.1);
+  --color-colour-neutral-20: #cccccc;
+  --color-colour-neutral-30: #b3b3b3;
+  --color-colour-neutral-40: #999999;
+  --color-colour-neutral-50: #7f7f7f;
+  --color-colour-neutral-60: #666666;
+  --color-colour-neutral-70: #4d4d4d;
+  --color-colour-neutral-80: #333333;
+  --color-colour-neutral-90: #1a1a1a;
+  --color-colour-neutral-100: #000000;
+  --color-colour-skeleton-dark: #e6e6e6;
+  --color-colour-yellow-100: #ffe600;
+  --color-colour-yellow-600: #fff600;
+  --color-colour-yellow-warm-80: #ffda00;
+  --color-colour-yellow-warm-100: #ffc300;
+}
