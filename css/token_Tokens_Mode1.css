@@ -1,119 +1,37 @@
-{
-  "color": {
-    "border": {
-      "focus": {
-        "value": "{colour.interaction.focus}"
-      },
-      "primary": {
-        "value": "{colour.neutral.100}"
-      },
-      "secondary-diabled": {
-        "value": "{colour.neutral.20}"
-      },
-      "success": {
-        "value": "{colour.green.100}"
-      }
-    },
-    "button": {
-      "invalid": {
-        "value": "{colour.invalid.100}"
-      },
-      "primary": {
-        "value": "{colour.yellow.100}"
-      },
-      "primary-active": {
-        "value": "{surface.brand-contrast}"
-      },
-      "primary-disbled": {
-        "value": "{surface.disabled}"
-      },
-      "primary-focus": {
-        "value": "{surface.primary}"
-      },
-      "primary-hover": {
-        "value": "{surface.brand-secondary}"
-      },
-      "secondary": {
-        "value": "{colour.neutral.0}"
-      },
-      "secondary-active": {
-        "value": "{colour.neutral.10}"
-      },
-      "secondary-disabled": {
-        "value": "{surface.disabled-secondary}"
-      },
-      "secondary-focus": {
-        "value": "{surface.primary}"
-      },
-      "secondary-hover": {
-        "value": "{colour.neutral.5}"
-      },
-      "selected": {
-        "value": "{colour.green.100}"
-      },
-      "skeleton": {
-        "value": "{colour.skeleton.dark}"
-      }
-    },
-    "icon": {
-      "brand": {
-        "value": "{colour.neutral.100}"
-      },
-      "disabled": {
-        "value": "{colour.neutral.40}"
-      },
-      "invalid": {
-        "value": "{colour.invalid.100}"
-      },
-      "invert": {
-        "value": "{colour.neutral.0}"
-      },
-      "primary": {
-        "value": "{colour.neutral.100}"
-      },
-      "success": {
-        "value": "{colour.green.100}"
-      }
-    },
-    "surface": {
-      "brand-contrast": {
-        "value": "{colour.yellow-warm.80}"
-      },
-      "brand-secondary": {
-        "value": "{colour.yellow.600}"
-      },
-      "disabled": {
-        "value": "{colour.neutral.10}"
-      },
-      "disabled-secondary": {
-        "value": "{colour.neutral.0}"
-      },
-      "invalid": {
-        "value": "{colour.invalid.10}"
-      },
-      "primary": {
-        "value": "{colour.neutral.0}"
-      },
-      "success": {
-        "value": "{colour.green.10}"
-      }
-    },
-    "text": {
-      "brand": {
-        "value": "{colour.neutral.100}"
-      },
-      "disbled": {
-        "value": "{colour.neutral.40}"
-      },
-      "invert": {
-        "value": "{colour.neutral.0}"
-      },
-      "primary": {
-        "value": "{colour.neutral.100}"
-      },
-      "success": {
-        "value": "{colour.green.100}"
-      }
-    }
-  }
+:root {
+  --color-border-focus: #0d59ff;
+  --color-border-primary: #000000;
+  --color-border-secondary-diabled: #cccccc;
+  --color-border-success: #007064;
+  --color-button-invalid: #e60e22;
+  --color-button-primary: #ffe600;
+  --color-button-primary-active: #ffda00;
+  --color-button-primary-disbled: rgba(0, 0, 0, 0.1);
+  --color-button-primary-focus: #ffffff;
+  --color-button-primary-hover: #fff600;
+  --color-button-secondary: #ffffff;
+  --color-button-secondary-active: rgba(0, 0, 0, 0.1);
+  --color-button-secondary-disabled: #ffffff;
+  --color-button-secondary-focus: #ffffff;
+  --color-button-secondary-hover: rgba(0, 0, 0, 0.05);
+  --color-button-selected: #007064;
+  --color-button-skeleton: #e6e6e6;
+  --color-icon-brand: #000000;
+  --color-icon-disabled: #999999;
+  --color-icon-invalid: #e60e22;
+  --color-icon-invert: #ffffff;
+  --color-icon-primary: #000000;
+  --color-icon-success: #007064;
+  --color-surface-brand-contrast: #ffda00;
+  --color-surface-brand-secondary: #fff600;
+  --color-surface-disabled: rgba(0, 0, 0, 0.1);
+  --color-surface-disabled-secondary: #ffffff;
+  --color-surface-invalid: rgba(230, 14, 34, 0.1);
+  --color-surface-primary: #ffffff;
+  --color-surface-success: #e6f1f0;
+  --color-text-brand: #000000;
+  --color-text-disbled: #999999;
+  --color-text-invert: #ffffff;
+  --color-text-primary: #000000;
+  --color-text-success: #007064;
 }
