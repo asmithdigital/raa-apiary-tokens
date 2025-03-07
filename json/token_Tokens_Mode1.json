@@ -97,6 +97,32 @@
       "$value": "{colour.green.100}"
     }
   },
+  "spacing": {
+    "2xl": {
+      "$type": "number",
+      "$value": 96
+    },
+    "lg": {
+      "$type": "number",
+      "$value": 48
+    },
+    "lx": {
+      "$type": "number",
+      "$value": 60
+    },
+    "md": {
+      "$type": "number",
+      "$value": 24
+    },
+    "sm": {
+      "$type": "number",
+      "$value": 12
+    },
+    "xs": {
+      "$type": "number",
+      "$value": 6
+    }
+  },
   "surface": {
     "brand-contrast": {
       "$type": "color",
