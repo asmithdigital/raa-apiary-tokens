@@ -1,0 +1,37 @@
+:root {
+  --color-border-focus: #0d59ff;
+  --color-border-primary: #000000;
+  --color-border-secondary-diabled: #cccccc;
+  --color-border-success: #007064;
+  --color-button-invalid: #e60e22;
+  --color-button-primary: #ffe600;
+  --color-button-primary-active: #ffda00;
+  --color-button-primary-disbled: rgba(0, 0, 0, 0.1);
+  --color-button-primary-focus: #ffffff;
+  --color-button-primary-hover: #fff600;
+  --color-button-secondary: #ffffff;
+  --color-button-secondary-active: rgba(0, 0, 0, 0.1);
+  --color-button-secondary-disabled: #ffffff;
+  --color-button-secondary-focus: #ffffff;
+  --color-button-secondary-hover: rgba(0, 0, 0, 0.05);
+  --color-button-selected: #007064;
+  --color-button-skeleton: #e6e6e6;
+  --color-icon-brand: #000000;
+  --color-icon-disabled: #999999;
+  --color-icon-invalid: #e60e22;
+  --color-icon-invert: #ffffff;
+  --color-icon-primary: #000000;
+  --color-icon-success: #007064;
+  --color-surface-brand-contrast: #ffda00;
+  --color-surface-brand-secondary: #fff600;
+  --color-surface-disabled: rgba(0, 0, 0, 0.1);
+  --color-surface-disabled-secondary: #ffffff;
+  --color-surface-invalid: rgba(230, 14, 34, 0.1);
+  --color-surface-primary: #ffffff;
+  --color-surface-success: #e6f1f0;
+  --color-text-brand: #000000;
+  --color-text-disbled: #999999;
+  --color-text-invert: #ffffff;
+  --color-text-primary: #000000;
+  --color-text-success: #007064;
+}
