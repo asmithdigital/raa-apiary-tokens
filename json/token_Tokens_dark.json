@@ -102,6 +102,10 @@
       "$type": "number",
       "$value": 96
     },
+    "3xl": {
+      "$type": "number",
+      "$value": 300
+    },
     "lg": {
       "$type": "number",
       "$value": 48
