@@ -1,0 +1,220 @@
+{
+  "blockquote": {
+    "100": {
+      "$type": "color",
+      "$value": "{colour.neutral.100}"
+    }
+  },
+  "border": {
+    "focus": {
+      "$type": "color",
+      "$value": "{colour.interaction.Focus}"
+    },
+    "header-bottom": {
+      "$type": "color",
+      "$value": "#f2f2f2"
+    },
+    "primary 2": {
+      "$type": "color",
+      "$value": "{colour.neutral.100}"
+    },
+    "secondary-diabled": {
+      "$type": "color",
+      "$value": "{colour.neutral.20}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{colour.dark-green.100}"
+    }
+  },
+  "buttons": {
+    "invalid": {
+      "$type": "color",
+      "$value": "{colour.invalid.100}"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{colour.yellow.100}"
+    },
+    "primary-active": {
+      "$type": "color",
+      "$value": "{surface.brand-contrast}"
+    },
+    "primary-disbled": {
+      "$type": "color",
+      "$value": "{surface.disabled}"
+    },
+    "primary-focus": {
+      "$type": "color",
+      "$value": "{surface.primary}"
+    },
+    "primary-hover": {
+      "$type": "color",
+      "$value": "{surface.brand-secondary}"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{colour.neutral.0}"
+    },
+    "secondary-active": {
+      "$type": "color",
+      "$value": "{colour.neutral.10}"
+    },
+    "secondary-disabled": {
+      "$type": "color",
+      "$value": "{surface.disabled-secondary}"
+    },
+    "secondary-focus": {
+      "$type": "color",
+      "$value": "{surface.primary}"
+    },
+    "secondary-hover": {
+      "$type": "color",
+      "$value": "{colour.neutral.5}"
+    },
+    "selected": {
+      "$type": "color",
+      "$value": "{colour.dark-green.100}"
+    },
+    "skeleton": {
+      "$type": "color",
+      "$value": "#e6e6e6"
+    }
+  },
+  "elevation": {
+    "10": {
+      "$type": "color",
+      "$value": "{colour.neutral.10}"
+    },
+    "25": {
+      "$type": "color",
+      "$value": "{colour.neutral.25}"
+    },
+    "4": {
+      "$type": "color",
+      "$value": "{colour.neutral.4}"
+    },
+    "5": {
+      "$type": "color",
+      "$value": "{colour.neutral.5}"
+    },
+    "6": {
+      "$type": "color",
+      "$value": "{colour.neutral.6}"
+    }
+  },
+  "icon": {
+    "brand": {
+      "$type": "color",
+      "$value": "{colour.neutral.100}"
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{colour.invalid.40}"
+    },
+    "invalid": {
+      "$type": "color",
+      "$value": "{colour.invalid.100}"
+    },
+    "invert": {
+      "$type": "color",
+      "$value": "{colour.neutral.0}"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{colour.neutral.100}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{colour.dark-green.100}"
+    }
+  },
+  "skeleton": {
+    "dark": {
+      "$type": "color",
+      "$value": "{colour.neutral.dark}"
+    },
+    "light": {
+      "$type": "color",
+      "$value": "{colour.neutral.light}"
+    }
+  },
+  "spacing": {
+    "2xl": {
+      "$type": "number",
+      "$value": 96
+    },
+    "lg": {
+      "$type": "number",
+      "$value": 48
+    },
+    "lx": {
+      "$type": "number",
+      "$value": 60
+    },
+    "md": {
+      "$type": "number",
+      "$value": 24
+    },
+    "sm": {
+      "$type": "number",
+      "$value": 12
+    },
+    "xs": {
+      "$type": "number",
+      "$value": 6
+    }
+  },
+  "surface": {
+    "brand-contrast": {
+      "$type": "color",
+      "$value": "{colour.warm-yellow.80}"
+    },
+    "brand-secondary": {
+      "$type": "color",
+      "$value": "{colour.yellow.60}"
+    },
+    "disabled": {
+      "$type": "color",
+      "$value": "{colour.neutral.10}"
+    },
+    "disabled-secondary": {
+      "$type": "color",
+      "$value": "{colour.neutral.0}"
+    },
+    "invalid": {
+      "$type": "color",
+      "$value": "{colour.invalid.10}"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{colour.neutral.0}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{colour.dark-green.10}"
+    }
+  },
+  "text": {
+    "brand": {
+      "$type": "color",
+      "$value": "{colour.neutral.100}"
+    },
+    "disbled": {
+      "$type": "color",
+      "$value": "{colour.neutral.40}"
+    },
+    "invert": {
+      "$type": "color",
+      "$value": "{colour.neutral.0}"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{colour.neutral.100}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{colour.dark-green.100}"
+    }
+  }
+}
