@@ -84,6 +84,58 @@
         "$value": "#ebe5d8"
       }
     },
+    "brand-primary": {
+      "10": {
+        "$type": "color",
+        "$value": "#fffde6"
+      },
+      "100": {
+        "$type": "color",
+        "$value": "#ffe600"
+      },
+      "20": {
+        "$type": "color",
+        "$value": "#fffacc"
+      },
+      "30": {
+        "$type": "color",
+        "$value": "#fff8b3"
+      },
+      "40": {
+        "$type": "color",
+        "$value": "#fff599"
+      },
+      "50": {
+        "$type": "color",
+        "$value": "#fff27f"
+      },
+      "60": {
+        "$type": "color",
+        "$value": "#fff066"
+      },
+      "70": {
+        "$type": "color",
+        "$value": "#ffee4d"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "#ffeb33"
+      },
+      "90": {
+        "$type": "color",
+        "$value": "#ffe91a"
+      }
+    },
+    "brand-secondary": {
+      "100": {
+        "$type": "color",
+        "$value": "#ffc300"
+      },
+      "80": {
+        "$type": "color",
+        "$value": "#ffda00"
+      }
+    },
     "green-dark": {
       "10": {
         "$type": "color",
@@ -576,58 +628,6 @@
       "90": {
         "$type": "color",
         "$value": "#ffffffe6"
-      }
-    },
-    "yellow": {
-      "10": {
-        "$type": "color",
-        "$value": "#fffde6"
-      },
-      "100": {
-        "$type": "color",
-        "$value": "#ffe600"
-      },
-      "20": {
-        "$type": "color",
-        "$value": "#fffacc"
-      },
-      "30": {
-        "$type": "color",
-        "$value": "#fff8b3"
-      },
-      "40": {
-        "$type": "color",
-        "$value": "#fff599"
-      },
-      "50": {
-        "$type": "color",
-        "$value": "#fff27f"
-      },
-      "60": {
-        "$type": "color",
-        "$value": "#fff066"
-      },
-      "70": {
-        "$type": "color",
-        "$value": "#ffee4d"
-      },
-      "80": {
-        "$type": "color",
-        "$value": "#ffeb33"
-      },
-      "90": {
-        "$type": "color",
-        "$value": "#ffe91a"
-      }
-    },
-    "yellow-warm": {
-      "100": {
-        "$type": "color",
-        "$value": "#ffc300"
-      },
-      "80": {
-        "$type": "color",
-        "$value": "#ffda00"
       }
     }
   }
