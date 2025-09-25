@@ -1,19 +1,11 @@
 {
   "font": {
     "family": {
-      "body": {
-        "$type": "string",
-        "$value": "National 2"
-      },
       "icon": {
         "$type": "string",
         "$value": "Font Awesome 6 Pro"
       },
-      "label": {
-        "$type": "string",
-        "$value": "National 2"
-      },
-      "title": {
+      "primary": {
         "$type": "string",
         "$value": "National 2"
       }
