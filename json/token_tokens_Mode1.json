@@ -8,6 +8,10 @@
       "$type": "color",
       "$value": "{colour.neutral.20}"
     },
+    "focus": {
+      "$type": "color",
+      "$value": "{interaction.focus.outline}"
+    },
     "strong": {
       "$type": "color",
       "$value": "{colour.neutral.100}"
@@ -147,10 +151,6 @@
       }
     },
     "focus": {
-      "focus": {
-        "$type": "color",
-        "$value": "{interaction.primary.focus}"
-      },
       "outline": {
         "$type": "color",
         "$value": "#0d59ff"
@@ -213,13 +213,13 @@
         "$type": "color",
         "$value": "{surface.disabled.secondary}"
       },
+      "focus": {
+        "$type": "color",
+        "$value": "{surface.primary}"
+      },
       "hover": {
         "$type": "color",
         "$value": "{colour.neutral.5}"
-      },
-      "outline": {
-        "$type": "color",
-        "$value": "{surface.primary}"
       }
     },
     "selected": {
